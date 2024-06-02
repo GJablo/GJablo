@@ -1,21 +1,10 @@
 <p align="center">
-  <a href="https://github.com/Ericode254">
+  <a href="https://github.com/GJablo">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY0M3RlOTV0MDI5eTdjYXdwODh1bjk2bDV5NmRlcmpicHV0czRuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead">
   </a>
 </p>
 <br>
-<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
-  <path id="path">
-    <animate attributeName="d" from="M10,100 H10" to="M10,100 H590" dur="2s" fill="freeze" />
-  </path>
-  <text font-family="Verdana" font-size="35" fill="black">
-    <textPath href="#path">
-      <h2 align="center">👋 Hi, I’m Gibby Jablo</h2> 
-    </textPath>
-  </text>
-</svg>
-
-
+<h2 align="center">👋 Hi, I’m Gibby Jablo</h2> 
 <br>
 <p align="center">I am good in both offensive and defensive security strategies, making me adept at anticipating and countering cyber threats. I link tinkering with machines as well. My experience spans across various sectors, including finance and healthcare. I am committed to continuous education and staying current with the latest cyber security trends, tools, and best practices to provide the most effective protection for my clients.</p>
 <br>
