@@ -13,6 +13,20 @@
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="c" width="40" height="40"/> <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width = "40" height = "40"/> </p>
+<br>
+<h3 align="center">Find me:</h3>
+<p align="center">
+<a href="https://twitter.com/erick_jillo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+</p>
+
+## My Progress
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=GJablo&show_icons=true&theme=dracula" alt="Anurag's GitHub stats">
+  </a>
+</p>
+
+![Snake animation](https://github.com/GJablo/GJablo/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 GJablo/GJablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
