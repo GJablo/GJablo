@@ -12,7 +12,7 @@
 <p align = "center">💞️ I’m looking to collaborate on mobile app projects and some web development projects as well.</p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="c" width="40" height="40"/>
+<p align="center"> <a href="https://angular.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="c" width="40" height="40"/> <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org/doc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a> [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)</p>
 
 <!---
 GJablo/GJablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
