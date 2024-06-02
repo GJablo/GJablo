@@ -1,4 +1,8 @@
-<p align = "center"> ![200w](https://github.com/GJablo/GJablo/assets/171167906/9eed3eba-83e2-4822-9994-351df4ad7e34) </p>
+<p align="center">
+  <a href="https://github.com/Ericode254">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWY0M3RlOTV0MDI5eTdjYXdwODh1bjk2bDV5NmRlcmpicHV0czRuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="MasterHead">
+  </a>
+</p>
 <br>
 <h2 align="center">👋 Hi, I’m @GJablo</h2> 
 <br>
