@@ -1,10 +1,10 @@
-
+<p align='center'>
 - 👋 Hi, I’m @GJablo
 - ![200w](https://github.com/GJablo/GJablo/assets/171167906/9eed3eba-83e2-4822-9994-351df4ad7e34)
 
 - 🌱 I’m currently learning angular, typescript and java
 - 💞️ I’m looking to collaborate on mobile app projects and some web development projects as well.
-
+</p>
 
 <!---
 GJablo/GJablo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
