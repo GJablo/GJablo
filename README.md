@@ -4,7 +4,18 @@
   </a>
 </p>
 <br>
-<h2 align="center">👋 Hi, I’m @GJablo</h2> 
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <path id="path">
+    <animate attributeName="d" from="M10,100 H10" to="M10,100 H590" dur="2s" fill="freeze" />
+  </path>
+  <text font-family="Verdana" font-size="35" fill="black">
+    <textPath href="#path">
+      <h2 align="center">👋 Hi, I’m Gibby Jablo</h2> 
+    </textPath>
+  </text>
+</svg>
+
+
 <br>
 <p align="center">I am good in both offensive and defensive security strategies, making me adept at anticipating and countering cyber threats. I link tinkering with machines as well. My experience spans across various sectors, including finance and healthcare. I am committed to continuous education and staying current with the latest cyber security trends, tools, and best practices to provide the most effective protection for my clients.</p>
 <br>
