@@ -4,7 +4,9 @@
   </a>
 </p>
 <br>
-<h2 align="center">👋 Hi, I’m Jablo</h2> 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋+ Hi+There!;+I'm+Jablo!;" />
+</h1>
 <br>
 <p align="center">I am good in both offensive and defensive security strategies, making me adept at anticipating and countering cyber threats. I like tinkering with machines as well. My experience spans across various sectors, including finance and healthcare. I am committed to continuous education and staying current with the latest cyber security trends, tools, and best practices to provide the most effective protection for my clients.</p>
 <br>
