@@ -10,7 +10,7 @@
 <br>
 <p align="center">I am good in both offensive and defensive security strategies, making me adept at anticipating and countering cyber threats. I like tinkering with machines as well. My experience spans across various sectors, including finance and healthcare. I am committed to continuous education and staying current with the latest cyber security trends, tools, and best practices to provide the most effective protection for my clients.</p>
 <br>
-<p align = "center">🌱 I’m currently learning angular, typescript and java to better my skills across different fields.</p> 
+<p align = "center">🌱 I’m currently learning go, rust and docker to better my skills across different fields.</p> 
 <p align = "center">💞️ I’m looking to collaborate on mobile app projects and some web development projects as well.</p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
@@ -18,7 +18,7 @@
 <br>
 <h3 align="center">Find me:</h3>
 <p align="center">
-<a href="https://twitter.com/erick_jillo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://x.com/GJablo254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ## My Progress
