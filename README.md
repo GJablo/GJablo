@@ -8,7 +8,12 @@
     Hi 👋. I'm Jablo
 </h1>
 <br>
-<p align="center">I am good in both offensive and defensive security strategies, making me adept at anticipating and countering cyber threats. I like tinkering with machines as well. My experience spans across various sectors, including finance and healthcare. I am committed to continuous education and staying current with the latest cyber security trends, tools, and best practices to provide the most effective protection for my clients.</p>
+## 🛠️ About Me
+- ⚡ Backend experience with **Node.js**, **PostgreSQL**, and REST API development.  
+- 🐧 Comfortable working in **Linux** environments.  
+- 📚 Always exploring new technologies and improving problem-solving skills.  
+- 💡 Interested in **open-source contributions**, **system design**, and **automation**.  
+- 🌍 Open to collaborations and exciting projects. 
 <br>
 <p align = "center">🌱 I’m currently learning go, rust and docker to better my skills across different fields.</p> 
 <p align = "center">💞️ I’m looking to collaborate on mobile app projects and some web development projects as well.</p>
