@@ -8,8 +8,10 @@
     Hi 👋. I'm Jablo
 </h1>
 <br>
+
 ## 🛠️ About Me
 <br>
+
 - 💻 Security enthusiast
 - ⚡ Backend experience with **Node.js**, **PostgreSQL**, **MongoDB**, **Python** and REST API development.  
 - 🐧 Comfortable working in **Linux** environments.  
@@ -17,7 +19,9 @@
 - 💡 Interested in **open-source contributions**, **system design**, and **automation**.  
 - 🌍 Open to collaborations and exciting projects. 
 <br>
+
 <p align = "center">🌱 I’m currently learning go, rust and docker to better my skills across different fields.</p> 
+
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
