@@ -9,14 +9,13 @@
 </h1>
 <br>
 ## 🛠️ About Me
-- ⚡ Backend experience with **Node.js**, **PostgreSQL**, and REST API development.  
-- 🐧 Comfortable working in **Linux** environments.  
-- 📚 Always exploring new technologies and improving problem-solving skills.  
-- 💡 Interested in **open-source contributions**, **system design**, and **automation**.  
-- 🌍 Open to collaborations and exciting projects. 
+-⚡ Backend experience with **Node.js**, **PostgreSQL**, and REST API development.  
+-🐧 Comfortable working in **Linux** environments.  
+-📚 Always exploring new technologies and improving problem-solving skills.  
+-💡 Interested in **open-source contributions**, **system design**, and **automation**.  
+-🌍 Open to collaborations and exciting projects. 
 <br>
 <p align = "center">🌱 I’m currently learning go, rust and docker to better my skills across different fields.</p> 
-<p align = "center">💞️ I’m looking to collaborate on mobile app projects and some web development projects as well.</p>
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
