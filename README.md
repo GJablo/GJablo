@@ -40,7 +40,14 @@
 <h3 align="center">Find me:</h3>
 <p align="center">
 <a href="https://x.com/GJablo254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-- 🌐 Portfolio: [https://gibbyjablo.netlify.app](https://gibbyjablo.netlify.app)
+  
+<a href="https://gibbyjablo.netlify.app" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/internetexplorer.svg" alt="Portfolio" height="30" width="40" />
+</a>
+
+<a href="mailto:gibbyjablo@gmail.com" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" />
+</a>
 </p>
 
 ## My Progress
