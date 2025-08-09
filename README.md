@@ -40,6 +40,7 @@
 <h3 align="center">Find me:</h3>
 <p align="center">
 <a href="https://x.com/GJablo254" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+- 🌐 Portfolio: [https://gibbyjablo.netlify.app](https://gibbyjablo.netlify.app)
 </p>
 
 ## My Progress
